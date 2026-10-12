@@ -3,7 +3,7 @@
 
 #include "jugador.h"
 
-#define MAX_JUGADORES 3
+#define MAX_JUGADORES 4
 
 void inicializarRanking(Jugador ranking[]);
 void mostrarRanking(const Jugador ranking[]);

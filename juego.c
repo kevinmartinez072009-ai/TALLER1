@@ -12,7 +12,7 @@ int main() {
     do {
         printf("\n===== RANKING GTA =====\n");
         printf("1. Registrar jugador\n");
-        printf("2. Mostrar Top 3\n");
+        printf("2. Mostrar Top 4\n");
         printf("3. Salir\n");
         printf("Seleccione una opcion: ");
         scanf("%d", &opcion);
